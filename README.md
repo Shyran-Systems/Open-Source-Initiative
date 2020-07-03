@@ -1,2 +1,3 @@
 # Open-Source-Initiative
-Collect funds to go Independent in Open Source Development environment.
+Here we Collect funds to go Independent in Open Source Development environment.
+We Thank all our supporters and friends !
